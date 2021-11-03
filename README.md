@@ -11,6 +11,11 @@ sudo mount /dev/sdX2
 cd /media/"username"/rootfs
 sudo touch ssh
 sudo chmod +x ssh
+sudo umount /dev/sdX2
+sudo umount /dev/sdX1
+```
+On Raspbian
+```bash
 cd ttn-gps
 sudo ./dragino-rpi4-tracker.sh
 ````

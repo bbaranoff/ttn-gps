@@ -1,4 +1,6 @@
 # ttn-gps
+GPS Tracker with dragino rpi hat v1.4
+And Raspberry Pi 4 Powered with 5V 4A
 Install latest version of RaspiOS-lite via raspi-imager
 On Ubuntu Host
 ```bash
@@ -24,4 +26,6 @@ On Raspbian
 ```bash
 cd ttn-gps
 sudo ./dragino-rpi4-tracker.sh
-````
+```
+If you want already customized OS
+https://drive.google.com/file/d/16UmfTRoSbkwJQ_ICBfQlRyjoRv7t4N-C/view?usp=sharing

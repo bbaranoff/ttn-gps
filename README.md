@@ -3,6 +3,12 @@ Install latest version of RaspiOS-lite via raspi-imager
 On Ubuntu Host
 ```bash
 sudo snap install rpi-imager
+```
+launch rpi-imager
+select other debian
+RaspiOS-lite (32-bits)
+```
+bash
 sudo mount /dev/sdX1
 cd /media/"username"/boot
 touch ssh

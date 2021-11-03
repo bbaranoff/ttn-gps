@@ -1,0 +1,662 @@
+2021-11-03 07:59:10,582 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 07:59:10,583 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 07:59:10,583 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 07:59:10,583 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 07:59:10,583 - __init__ - 377 - WARNING - Unable to read session details
+2021-11-03 07:59:10,584 - _read_legacy_fcount - 462 - WARNING - No frame count file available
+2021-11-03 07:59:10,586 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 07:59:10,587 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/serial0
+2021-11-03 07:59:10,587 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 07:59:10,587 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 07:59:10,587 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 07:59:10,588 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 07:59:10,588 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 07:59:10,588 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 07:59:10,588 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 07:59:10,588 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 07:59:10,588 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 07:59:10,589 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 07:59:10,589 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 00 00 01
+2021-11-03 07:59:10,589 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 07:59:10,592 - join - 221 - DEBUG - Nonce = [219, 30]
+2021-11-03 07:59:10,592 - joined - 429 - DEBUG - Joined False
+2021-11-03 07:59:10,592 - join - 232 - DEBUG - Performing OTAA Join
+2021-11-03 07:59:10,593 - join - 236 - INFO - App key = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2021-11-03 07:59:10,593 - join - 237 - INFO - App eui = [0, 0, 0, 0, 0, 0, 0, 1]
+2021-11-03 07:59:10,593 - join - 238 - INFO - Dev eui = [0, 0, 0, 0, 0, 213, 179, 112]
+2021-11-03 07:59:10,594 - _choose_freq - 123 - INFO - Frequency = 868.3
+2021-11-03 07:59:10,661 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 08:00:23,890 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 08:00:23,890 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 08:00:23,891 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 08:00:23,891 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 08:00:23,891 - __init__ - 377 - WARNING - Unable to read session details
+2021-11-03 08:00:23,891 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 08:00:23,892 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/serial0
+2021-11-03 08:00:23,892 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 08:00:23,892 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 08:00:23,892 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 08:00:23,892 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 08:00:23,893 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 08:00:23,893 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 08:00:23,893 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 08:00:23,893 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 08:00:23,893 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 08:00:23,893 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 08:00:23,894 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 00 00 01
+2021-11-03 08:00:23,894 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 08:00:23,899 - join - 221 - DEBUG - Nonce = [15, 200]
+2021-11-03 08:00:23,900 - joined - 429 - DEBUG - Joined False
+2021-11-03 08:00:23,900 - join - 232 - DEBUG - Performing OTAA Join
+2021-11-03 08:00:23,900 - join - 236 - INFO - App key = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2021-11-03 08:00:23,901 - join - 237 - INFO - App eui = [0, 0, 0, 0, 0, 0, 0, 1]
+2021-11-03 08:00:23,901 - join - 238 - INFO - Dev eui = [0, 0, 0, 0, 0, 213, 179, 112]
+2021-11-03 08:00:23,901 - _choose_freq - 123 - INFO - Frequency = 868.3
+2021-11-03 08:00:23,966 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 08:00:48,922 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 08:00:48,922 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 08:00:48,922 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 08:00:48,923 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 08:00:48,923 - __init__ - 377 - WARNING - Unable to read session details
+2021-11-03 08:00:48,923 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 08:00:48,923 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/serial0
+2021-11-03 08:00:48,923 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 08:00:48,923 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 08:00:48,924 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 08:00:48,924 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 08:00:48,924 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 08:00:48,924 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 08:00:48,924 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 08:00:48,924 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 08:00:48,924 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 08:00:48,924 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 08:00:48,924 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 00 00 01
+2021-11-03 08:00:48,925 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 08:00:48,928 - join - 221 - DEBUG - Nonce = [164, 47]
+2021-11-03 08:00:48,929 - joined - 429 - DEBUG - Joined False
+2021-11-03 08:00:48,929 - join - 232 - DEBUG - Performing OTAA Join
+2021-11-03 08:00:48,929 - join - 236 - INFO - App key = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2021-11-03 08:00:48,929 - join - 237 - INFO - App eui = [0, 0, 0, 0, 0, 0, 0, 1]
+2021-11-03 08:00:48,929 - join - 238 - INFO - Dev eui = [0, 0, 0, 0, 0, 213, 179, 112]
+2021-11-03 08:00:48,930 - _choose_freq - 123 - INFO - Frequency = 868.1
+2021-11-03 08:00:48,995 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 08:02:03,764 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 08:02:03,764 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 08:02:03,764 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 08:02:03,765 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 08:02:03,765 - __init__ - 377 - WARNING - Unable to read session details
+2021-11-03 08:02:03,767 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 08:02:03,767 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/serial0
+2021-11-03 08:02:03,768 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 08:02:03,768 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 08:02:03,768 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 08:02:03,768 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 08:02:03,768 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 08:02:03,768 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 08:02:03,769 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 08:02:03,769 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 08:02:03,769 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 08:02:03,769 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 08:02:03,770 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 08:02:03,770 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 08:02:03,773 - join - 221 - DEBUG - Nonce = [67, 42]
+2021-11-03 08:02:03,773 - joined - 429 - DEBUG - Joined False
+2021-11-03 08:02:03,774 - join - 232 - DEBUG - Performing OTAA Join
+2021-11-03 08:02:03,774 - join - 236 - INFO - App key = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2021-11-03 08:02:03,774 - join - 237 - INFO - App eui = [0, 0, 0, 0, 0, 213, 179, 112]
+2021-11-03 08:02:03,774 - join - 238 - INFO - Dev eui = [0, 0, 0, 0, 0, 0, 0, 1]
+2021-11-03 08:02:03,774 - _choose_freq - 123 - INFO - Frequency = 868.5
+2021-11-03 08:02:03,841 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 08:02:08,912 - on_rx_done - 144 - DEBUG - Recieved message
+2021-11-03 08:02:08,915 - joined - 429 - DEBUG - Joined False
+2021-11-03 08:02:08,915 - on_rx_done - 156 - INFO - processing JOIN_ACCEPT payload
+2021-11-03 08:02:08,916 - on_rx_done - 172 - DEBUG - Processing message: MDHR version 0 mtype 32 payload [22, 0, 0, 19, 0, 0, 41, 65, 11, 38, 3, 5, 24, 79, 132, 232, 86, 132, 184, 94, 132, 136, 102, 132, 88, 110, 132, 0] 
+2021-11-03 08:02:08,916 - on_rx_done - 175 - DEBUG - Processing JOIN_ACCEPT
+2021-11-03 08:02:08,917 - on_rx_done - 179 - INFO - Device: [38, 11, 65, 41]
+2021-11-03 08:02:08,917 - on_rx_done - 181 - INFO - Network key: [133, 120, 25, 209, 75, 155, 152, 12, 139, 36, 69, 124, 241, 115, 253, 112]
+2021-11-03 08:02:08,918 - on_rx_done - 183 - INFO - APPS key: [253, 134, 128, 236, 157, 103, 156, 5, 74, 228, 206, 95, 46, 19, 60, 205]
+2021-11-03 08:02:09,786 - _choose_freq - 123 - INFO - Frequency = 868.3
+2021-11-03 08:02:09,787 - send_bytes - 276 - DEBUG - Frame count 1
+2021-11-03 08:02:09,791 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 1, 0, 1, 219, 49, 191, 44, 67, 255, 204, 204, 230, 12, 252, 45, 236, 150, 36]
+2021-11-03 08:02:09,792 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 08:02:09,792 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 08:02:09,859 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 08:02:10,868 - _choose_freq - 123 - INFO - Frequency = 868.3
+2021-11-03 08:02:10,868 - send_bytes - 276 - DEBUG - Frame count 2
+2021-11-03 08:02:10,872 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 2, 0, 1, 234, 3, 110, 12, 52, 158, 81, 194, 240, 73, 101, 38, 244, 248, 100]
+2021-11-03 08:02:10,874 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 08:02:10,874 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 08:02:10,941 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 08:02:56,112 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 08:02:56,113 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 08:02:56,113 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 08:02:56,114 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 08:02:56,114 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 08:02:56,114 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 08:02:56,114 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 08:02:56,115 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 08:02:56,115 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/serial0
+2021-11-03 08:02:56,115 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 08:02:56,115 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 08:02:56,116 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 08:02:56,116 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 08:02:56,116 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 08:02:56,116 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 08:02:56,116 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 08:02:56,116 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 08:02:56,117 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 08:02:56,117 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 08:02:56,117 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 08:02:56,117 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 08:02:56,121 - join - 221 - DEBUG - Nonce = [168, 184]
+2021-11-03 08:02:56,122 - joined - 429 - DEBUG - Joined True
+2021-11-03 08:02:56,122 - join - 226 - INFO - Using cached details
+2021-11-03 08:02:56,122 - join - 227 - DEBUG - [38, 11, 65, 41]
+2021-11-03 08:02:56,123 - _choose_freq - 123 - INFO - Frequency = 868.1
+2021-11-03 08:02:56,123 - send_bytes - 276 - DEBUG - Frame count 3
+2021-11-03 08:02:56,125 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 3, 0, 1, 127, 108, 128, 170, 176, 182, 30, 9, 65, 38, 250, 232, 110, 78, 194]
+2021-11-03 08:02:56,126 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 08:02:56,127 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 08:02:56,193 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 08:02:57,197 - _choose_freq - 123 - INFO - Frequency = 867.9
+2021-11-03 08:02:57,197 - send_bytes - 276 - DEBUG - Frame count 4
+2021-11-03 08:02:57,201 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 4, 0, 1, 142, 202, 200, 215, 168, 124, 108, 226, 167, 85, 97, 52, 212, 55, 240]
+2021-11-03 08:02:57,202 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 08:02:57,203 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 08:02:57,269 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 08:04:14,958 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 08:04:14,959 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 08:04:14,959 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 08:04:14,959 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 08:04:14,960 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 08:04:14,960 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 08:04:14,960 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 08:04:14,961 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 08:04:14,961 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/serial0
+2021-11-03 08:04:14,961 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 08:04:14,962 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 08:04:14,962 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 08:04:14,962 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 08:04:14,962 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 08:04:14,962 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 08:04:14,963 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 08:04:14,963 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 08:04:14,963 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 08:04:14,963 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 08:04:14,963 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 08:04:14,964 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 08:04:14,970 - join - 221 - DEBUG - Nonce = [11, 43]
+2021-11-03 08:04:14,971 - joined - 429 - DEBUG - Joined True
+2021-11-03 08:04:14,971 - join - 226 - INFO - Using cached details
+2021-11-03 08:04:14,971 - join - 227 - DEBUG - [38, 11, 65, 41]
+2021-11-03 08:04:14,972 - _choose_freq - 123 - INFO - Frequency = 867.7
+2021-11-03 08:04:14,972 - send_bytes - 276 - DEBUG - Frame count 5
+2021-11-03 08:04:14,974 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 5, 0, 1, 238, 253, 131, 59, 10, 8, 48, 170, 71, 2, 247, 215, 222, 220, 252]
+2021-11-03 08:04:14,975 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 08:04:14,976 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 08:04:15,042 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 08:04:16,050 - _choose_freq - 123 - INFO - Frequency = 867.3
+2021-11-03 08:04:16,051 - send_bytes - 276 - DEBUG - Frame count 6
+2021-11-03 08:04:16,054 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 6, 0, 1, 73, 210, 54, 121, 236, 201, 94, 199, 109, 79, 31, 202, 45, 108, 170]
+2021-11-03 08:04:16,056 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 08:04:16,056 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 08:04:16,123 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:00:28,205 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:00:28,208 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:00:28,208 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:00:28,208 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:00:28,209 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:00:28,209 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:00:28,209 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:00:28,210 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:00:28,210 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/serial0
+2021-11-03 10:00:28,210 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:00:28,210 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:00:28,210 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:00:28,211 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:00:28,211 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:00:28,211 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:00:28,211 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:00:28,211 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:00:28,212 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:00:28,212 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:00:28,212 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:00:28,212 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:00:28,217 - join - 221 - DEBUG - Nonce = [189, 127]
+2021-11-03 10:00:28,217 - joined - 429 - DEBUG - Joined True
+2021-11-03 10:00:28,218 - join - 226 - INFO - Using cached details
+2021-11-03 10:00:28,218 - join - 227 - DEBUG - [38, 11, 65, 41]
+2021-11-03 10:00:31,237 - _choose_freq - 123 - INFO - Frequency = 867.3
+2021-11-03 10:00:31,239 - send_bytes - 276 - DEBUG - Frame count 7
+2021-11-03 10:00:31,244 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 7, 0, 1, 117, 51, 168, 208, 161, 65, 232, 160, 173, 107, 4, 129, 58, 93, 142, 165, 207, 52, 24, 127, 51, 93, 86, 131, 163, 144, 98, 11, 124, 219, 11, 152, 177, 186, 183, 233, 136, 43, 250, 68, 183, 83, 210, 216, 164]
+2021-11-03 10:00:31,246 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:00:31,246 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:00:31,354 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:00:32,362 - _choose_freq - 123 - INFO - Frequency = 868.1
+2021-11-03 10:00:32,363 - send_bytes - 276 - DEBUG - Frame count 8
+2021-11-03 10:00:32,371 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 8, 0, 1, 28, 195, 243, 193, 192, 49, 32, 179, 116, 4, 122, 15, 161, 162, 223, 73, 138, 139, 190, 74, 139, 230, 162, 138, 132, 197, 57, 37, 4, 127, 170, 167, 134, 210, 154, 185, 224, 123, 92, 96, 27, 90, 202, 15, 151]
+2021-11-03 10:00:32,373 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:00:32,373 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:00:32,481 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:04:48,549 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:04:48,551 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:04:48,551 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:04:48,551 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:04:48,551 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:04:48,552 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:04:48,552 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:04:48,552 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:04:48,553 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/serial0
+2021-11-03 10:04:48,553 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:04:48,553 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:04:48,553 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:04:48,553 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:04:48,554 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:04:48,554 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:04:48,554 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:04:48,554 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:04:48,554 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:04:48,555 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:04:48,555 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:04:48,555 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:04:48,558 - join - 221 - DEBUG - Nonce = [134, 228]
+2021-11-03 10:04:48,558 - joined - 429 - DEBUG - Joined True
+2021-11-03 10:04:48,558 - join - 226 - INFO - Using cached details
+2021-11-03 10:04:48,558 - join - 227 - DEBUG - [38, 11, 65, 41]
+2021-11-03 10:04:48,603 - _choose_freq - 123 - INFO - Frequency = 868.3
+2021-11-03 10:04:48,605 - send_bytes - 276 - DEBUG - Frame count 9
+2021-11-03 10:04:48,606 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 9, 0, 1, 40, 154, 181, 222]
+2021-11-03 10:04:48,607 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:04:48,607 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:04:48,658 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:04:49,662 - _choose_freq - 123 - INFO - Frequency = 868.5
+2021-11-03 10:04:49,663 - send_bytes - 276 - DEBUG - Frame count 10
+2021-11-03 10:04:49,666 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 10, 0, 1, 185, 39, 228, 16]
+2021-11-03 10:04:49,667 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:04:49,667 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:04:49,719 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:04:58,900 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:04:58,900 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:04:58,901 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:04:58,901 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:04:58,903 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:04:58,903 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:04:58,904 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:04:58,904 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:04:58,905 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/serial0
+2021-11-03 10:04:58,905 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:04:58,905 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:04:58,905 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:04:58,906 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:04:58,906 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:04:58,906 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:04:58,906 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:04:58,906 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:04:58,907 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:04:58,907 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:04:58,907 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:04:58,907 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:04:58,910 - join - 221 - DEBUG - Nonce = [31, 153]
+2021-11-03 10:04:58,910 - joined - 429 - DEBUG - Joined True
+2021-11-03 10:04:58,911 - join - 226 - INFO - Using cached details
+2021-11-03 10:04:58,911 - join - 227 - DEBUG - [38, 11, 65, 41]
+2021-11-03 10:04:58,928 - _choose_freq - 123 - INFO - Frequency = 868.1
+2021-11-03 10:04:58,929 - send_bytes - 276 - DEBUG - Frame count 11
+2021-11-03 10:04:58,932 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 11, 0, 1, 35, 227, 185, 79]
+2021-11-03 10:04:58,933 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:04:58,933 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:04:58,984 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:04:59,993 - _choose_freq - 123 - INFO - Frequency = 868.3
+2021-11-03 10:04:59,994 - send_bytes - 276 - DEBUG - Frame count 12
+2021-11-03 10:04:59,997 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 12, 0, 1, 59, 47, 170, 49]
+2021-11-03 10:04:59,998 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:04:59,998 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:05:00,050 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:05:11,112 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:05:11,113 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:05:11,113 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:05:11,114 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:05:11,114 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:05:11,114 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:05:11,114 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:05:11,114 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:05:11,115 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/serial0
+2021-11-03 10:05:11,115 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:05:11,115 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:05:11,115 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:05:11,115 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:05:11,115 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:05:11,115 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:05:11,116 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:05:11,116 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:05:11,116 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:05:11,116 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:05:11,116 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:05:11,117 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:05:11,120 - join - 221 - DEBUG - Nonce = [197, 43]
+2021-11-03 10:05:11,121 - joined - 429 - DEBUG - Joined True
+2021-11-03 10:05:11,121 - join - 226 - INFO - Using cached details
+2021-11-03 10:05:11,121 - join - 227 - DEBUG - [38, 11, 65, 41]
+2021-11-03 10:05:11,136 - _choose_freq - 123 - INFO - Frequency = 868.3
+2021-11-03 10:05:11,137 - send_bytes - 276 - DEBUG - Frame count 13
+2021-11-03 10:05:11,139 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 13, 0, 1, 92, 46, 175, 1]
+2021-11-03 10:05:11,140 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:05:11,140 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:05:11,192 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:05:12,200 - _choose_freq - 123 - INFO - Frequency = 867.1
+2021-11-03 10:05:12,200 - send_bytes - 276 - DEBUG - Frame count 14
+2021-11-03 10:05:12,203 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 14, 0, 1, 132, 64, 162, 220]
+2021-11-03 10:05:12,205 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:05:12,205 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:05:12,256 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:05:34,407 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:05:34,408 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:05:34,408 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:05:34,408 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:05:34,408 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:05:34,408 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:05:34,409 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:05:34,409 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:05:34,409 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/ttyS0
+2021-11-03 10:05:34,409 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:05:34,410 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:05:34,410 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:05:34,410 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:05:34,410 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:05:34,410 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:05:34,412 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:05:34,412 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:05:34,412 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:05:34,413 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:05:34,413 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:05:34,413 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:05:55,668 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:05:55,669 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:05:55,669 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:05:55,669 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:05:55,669 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:05:55,670 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:05:55,670 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:05:55,670 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:05:55,670 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/tty2
+2021-11-03 10:05:55,671 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:05:55,671 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:05:55,671 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:05:55,671 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:05:55,671 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:05:55,671 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:05:55,672 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:05:55,672 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:05:55,672 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:05:55,672 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:05:55,672 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:05:55,672 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:05:55,675 - join - 221 - DEBUG - Nonce = [164, 146]
+2021-11-03 10:05:55,675 - joined - 429 - DEBUG - Joined True
+2021-11-03 10:05:55,676 - join - 226 - INFO - Using cached details
+2021-11-03 10:05:55,676 - join - 227 - DEBUG - [38, 11, 65, 41]
+2021-11-03 10:05:55,692 - _choose_freq - 123 - INFO - Frequency = 868.3
+2021-11-03 10:05:55,693 - send_bytes - 276 - DEBUG - Frame count 15
+2021-11-03 10:05:55,695 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 15, 0, 1, 217, 165, 18, 82]
+2021-11-03 10:05:55,695 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:05:55,696 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:05:55,747 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:05:56,755 - _choose_freq - 123 - INFO - Frequency = 867.5
+2021-11-03 10:05:56,756 - send_bytes - 276 - DEBUG - Frame count 16
+2021-11-03 10:05:56,759 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 16, 0, 1, 100, 155, 226, 253]
+2021-11-03 10:05:56,760 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:05:56,761 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:05:56,812 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:07:01,497 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:07:01,499 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:07:01,500 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:07:01,500 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:07:01,500 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:07:01,500 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:07:01,501 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:07:01,501 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:07:01,501 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/tty2
+2021-11-03 10:07:01,502 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:07:01,502 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:07:01,502 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:07:01,502 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:07:01,502 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:07:01,503 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:07:01,503 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:07:01,503 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:07:01,503 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:07:01,503 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:07:01,503 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:07:01,504 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:07:01,506 - join - 221 - DEBUG - Nonce = [45, 202]
+2021-11-03 10:07:01,507 - joined - 429 - DEBUG - Joined True
+2021-11-03 10:07:01,507 - join - 226 - INFO - Using cached details
+2021-11-03 10:07:01,507 - join - 227 - DEBUG - [38, 11, 65, 41]
+2021-11-03 10:07:01,552 - _choose_freq - 123 - INFO - Frequency = 867.7
+2021-11-03 10:07:01,553 - send_bytes - 276 - DEBUG - Frame count 17
+2021-11-03 10:07:01,554 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 17, 0, 1, 11, 9, 13, 114]
+2021-11-03 10:07:01,555 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:07:01,555 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:07:01,607 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:07:02,618 - _choose_freq - 123 - INFO - Frequency = 867.3
+2021-11-03 10:07:02,619 - send_bytes - 276 - DEBUG - Frame count 18
+2021-11-03 10:07:02,623 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 18, 0, 1, 173, 57, 11, 135]
+2021-11-03 10:07:02,625 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:07:02,625 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:07:02,676 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:07:27,642 - __init__ - 421 - CRITICAL - Missing required field 'gps_baud_rate'
+2021-11-03 10:08:09,522 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:08:09,523 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:08:09,523 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:08:09,524 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:08:09,524 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:08:09,524 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:08:09,524 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:08:09,524 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:08:09,525 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/ttyAMA0
+2021-11-03 10:08:09,525 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:08:09,525 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:08:09,525 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:08:09,525 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:08:09,526 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:08:09,526 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:08:09,526 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:08:09,526 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:08:09,526 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:08:09,526 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:08:09,526 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:08:09,527 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:08:09,531 - join - 221 - DEBUG - Nonce = [254, 211]
+2021-11-03 10:08:09,531 - joined - 429 - DEBUG - Joined True
+2021-11-03 10:08:09,531 - join - 226 - INFO - Using cached details
+2021-11-03 10:08:09,532 - join - 227 - DEBUG - [38, 11, 65, 41]
+2021-11-03 10:08:09,549 - _choose_freq - 123 - INFO - Frequency = 867.1
+2021-11-03 10:08:09,550 - send_bytes - 276 - DEBUG - Frame count 19
+2021-11-03 10:08:09,553 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 19, 0, 1, 17, 157, 218, 250]
+2021-11-03 10:08:09,554 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:08:09,554 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:08:09,605 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:08:10,615 - _choose_freq - 123 - INFO - Frequency = 867.3
+2021-11-03 10:08:10,616 - send_bytes - 276 - DEBUG - Frame count 20
+2021-11-03 10:08:10,619 - send_bytes - 279 - DEBUG - Packet = [64, 41, 65, 11, 38, 0, 20, 0, 1, 185, 196, 233, 83]
+2021-11-03 10:08:10,622 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:08:10,622 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:08:10,673 - on_tx_done - 206 - DEBUG - TX Complete
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                2021-11-03 10:10:16,083 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:10:16,085 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:10:16,085 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:10:16,085 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:10:16,086 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:10:16,086 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:10:16,086 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:10:16,086 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:10:16,087 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/ttyS0
+2021-11-03 10:10:16,087 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:10:16,087 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:10:16,087 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:10:16,087 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:10:16,088 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:10:16,088 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:10:16,088 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:10:16,088 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:10:16,088 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:10:16,088 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:10:16,089 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:10:16,089 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:10:16,093 - join - 221 - DEBUG - Nonce = [186, 222]
+2021-11-03 10:10:16,093 - joined - 429 - DEBUG - Joined True
+2021-11-03 10:10:16,094 - join - 226 - INFO - Using cached details
+2021-11-03 10:10:16,094 - join - 227 - DEBUG - [38, 11, 37, 220]
+2021-11-03 10:11:08,176 - _choose_freq - 123 - INFO - Frequency = 868.1
+2021-11-03 10:11:08,177 - send_bytes - 276 - DEBUG - Frame count 3
+2021-11-03 10:11:08,179 - send_bytes - 279 - DEBUG - Packet = [64, 220, 37, 11, 38, 0, 3, 0, 1, 42, 23, 252, 59]
+2021-11-03 10:11:08,181 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:11:08,182 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:11:08,233 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:11:09,243 - _choose_freq - 123 - INFO - Frequency = 868.1
+2021-11-03 10:11:09,243 - send_bytes - 276 - DEBUG - Frame count 4
+2021-11-03 10:11:09,246 - send_bytes - 279 - DEBUG - Packet = [64, 220, 37, 11, 38, 0, 4, 0, 1, 130, 220, 106, 115]
+2021-11-03 10:11:09,247 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:11:09,247 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:11:09,299 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:11:19,023 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:11:19,023 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:11:19,024 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:11:19,024 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:11:19,024 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:11:19,024 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:11:19,025 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:11:19,025 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:11:19,025 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/ttyS0
+2021-11-03 10:11:19,025 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:11:19,025 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:11:19,026 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:11:19,026 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:11:19,026 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:11:19,026 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:11:19,026 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:11:19,027 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:11:19,027 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:11:19,027 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:11:19,027 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:11:19,027 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:11:19,031 - join - 221 - DEBUG - Nonce = [120, 244]
+2021-11-03 10:11:19,031 - joined - 429 - DEBUG - Joined True
+2021-11-03 10:11:19,032 - join - 226 - INFO - Using cached details
+2021-11-03 10:11:19,032 - join - 227 - DEBUG - [38, 11, 37, 220]
+2021-11-03 10:11:19,048 - _choose_freq - 123 - INFO - Frequency = 868.1
+2021-11-03 10:11:19,050 - send_bytes - 276 - DEBUG - Frame count 5
+2021-11-03 10:11:19,051 - send_bytes - 279 - DEBUG - Packet = [64, 220, 37, 11, 38, 0, 5, 0, 1, 18, 56, 242, 251]
+2021-11-03 10:11:19,052 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:11:19,052 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:11:19,104 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:11:20,111 - _choose_freq - 123 - INFO - Frequency = 867.3
+2021-11-03 10:11:20,112 - send_bytes - 276 - DEBUG - Frame count 6
+2021-11-03 10:11:20,114 - send_bytes - 279 - DEBUG - Packet = [64, 220, 37, 11, 38, 0, 6, 0, 1, 59, 196, 162, 221]
+2021-11-03 10:11:20,116 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:11:20,116 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:11:20,167 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:12:41,597 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:12:41,597 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:12:41,597 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:12:41,597 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:12:41,598 - __init__ - 377 - WARNING - Unable to read session details
+2021-11-03 10:12:41,598 - _read_legacy_fcount - 462 - WARNING - No frame count file available
+2021-11-03 10:12:41,599 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:12:41,599 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/ttyAMA0
+2021-11-03 10:12:41,599 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:12:41,600 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:12:41,600 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:12:41,600 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:12:41,600 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:12:41,600 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:12:41,600 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:12:41,600 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:12:41,600 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:12:41,600 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:12:41,601 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:12:41,601 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:14:54,558 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:14:54,561 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:14:54,562 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:14:54,562 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:14:54,563 - __init__ - 377 - WARNING - Unable to read session details
+2021-11-03 10:14:54,563 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:14:54,563 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/ttyS0
+2021-11-03 10:14:54,564 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:14:54,564 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:14:54,564 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:14:54,564 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:14:54,564 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:14:54,565 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:14:54,565 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:14:54,565 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:14:54,565 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:14:54,565 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:14:54,566 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:14:54,566 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:14:54,568 - join - 221 - DEBUG - Nonce = [148, 10]
+2021-11-03 10:14:54,569 - joined - 429 - DEBUG - Joined False
+2021-11-03 10:14:54,569 - join - 232 - DEBUG - Performing OTAA Join
+2021-11-03 10:14:54,569 - join - 236 - INFO - App key = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2021-11-03 10:14:54,569 - join - 237 - INFO - App eui = [0, 0, 0, 0, 0, 213, 179, 112]
+2021-11-03 10:14:54,569 - join - 238 - INFO - Dev eui = [0, 0, 0, 0, 0, 0, 0, 1]
+2021-11-03 10:14:54,570 - _choose_freq - 123 - INFO - Frequency = 868.5
+2021-11-03 10:14:54,635 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:14:59,708 - on_rx_done - 144 - DEBUG - Recieved message
+2021-11-03 10:14:59,710 - joined - 429 - DEBUG - Joined False
+2021-11-03 10:14:59,710 - on_rx_done - 156 - INFO - processing JOIN_ACCEPT payload
+2021-11-03 10:14:59,711 - on_rx_done - 172 - DEBUG - Processing message: MDHR version 0 mtype 32 payload [24, 0, 0, 19, 0, 0, 178, 123, 11, 38, 3, 5, 24, 79, 132, 232, 86, 132, 184, 94, 132, 136, 102, 132, 88, 110, 132, 0] 
+2021-11-03 10:14:59,711 - on_rx_done - 175 - DEBUG - Processing JOIN_ACCEPT
+2021-11-03 10:14:59,712 - on_rx_done - 179 - INFO - Device: [38, 11, 123, 178]
+2021-11-03 10:14:59,712 - on_rx_done - 181 - INFO - Network key: [83, 231, 200, 170, 132, 134, 84, 214, 77, 244, 245, 129, 44, 236, 253, 29]
+2021-11-03 10:14:59,713 - on_rx_done - 183 - INFO - APPS key: [251, 113, 142, 171, 171, 157, 26, 223, 171, 214, 146, 95, 254, 175, 206, 182]
+2021-11-03 10:15:03,640 - _choose_freq - 123 - INFO - Frequency = 867.3
+2021-11-03 10:15:03,642 - send_bytes - 276 - DEBUG - Frame count 1
+2021-11-03 10:15:03,646 - send_bytes - 279 - DEBUG - Packet = [64, 178, 123, 11, 38, 0, 1, 0, 1, 231, 47, 246, 51, 145, 161, 13, 212, 131, 219, 63, 90, 14, 183, 147, 178, 228, 72, 104, 215, 93, 158, 97, 133, 20, 51, 96, 209, 213, 92, 233, 104, 93, 15, 83, 120, 49, 91, 119, 70, 91, 227, 229, 15, 136]
+2021-11-03 10:15:03,647 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:15:03,648 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:15:03,755 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:15:04,759 - _choose_freq - 123 - INFO - Frequency = 867.3
+2021-11-03 10:15:04,764 - send_bytes - 276 - DEBUG - Frame count 2
+2021-11-03 10:15:04,768 - send_bytes - 279 - DEBUG - Packet = [64, 178, 123, 11, 38, 0, 2, 0, 1, 51, 164, 115, 183, 180, 172, 157, 100, 209, 29, 0, 10, 29, 225, 159, 163, 22, 223, 207, 63, 50, 175, 252, 203, 23, 145, 216, 112, 121, 81, 182, 242, 166, 43, 152, 100, 79, 93, 183, 140, 185, 85, 98, 96, 57]
+2021-11-03 10:15:04,769 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:15:04,769 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:15:04,877 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:16:45,052 - __init__ - 367 - INFO - Using OTAA mode
+2021-11-03 10:16:45,054 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:16:45,054 - _convert_array - 480 - DEBUG - Converted 8/8 items
+2021-11-03 10:16:45,055 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:16:45,055 - _convert_array - 480 - DEBUG - Converted 4/4 items
+2021-11-03 10:16:45,055 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:16:45,055 - _convert_array - 480 - DEBUG - Converted 16/16 items
+2021-11-03 10:16:45,055 - __init__ - 389 - DEBUG - GPS Baud Rate: 9600
+2021-11-03 10:16:45,055 - __init__ - 390 - DEBUG - GPS Serial Port: /dev/ttyS0
+2021-11-03 10:16:45,056 - __init__ - 391 - DEBUG - GPS Serial Timeout: 1
+2021-11-03 10:16:45,056 - __init__ - 392 - DEBUG - GPS Wait Period: 10
+2021-11-03 10:16:45,056 - __init__ - 393 - DEBUG - Spreading factor: 7
+2021-11-03 10:16:45,056 - __init__ - 394 - DEBUG - Max Power: 0F
+2021-11-03 10:16:45,056 - __init__ - 395 - DEBUG - Output Power: 0E
+2021-11-03 10:16:45,056 - __init__ - 396 - DEBUG - Sync Word: 34
+2021-11-03 10:16:45,057 - __init__ - 397 - DEBUG - RX CRC: True
+2021-11-03 10:16:45,057 - __init__ - 398 - DEBUG - Frame Count Filename: .lora_fcount
+2021-11-03 10:16:45,057 - __init__ - 399 - DEBUG - Auth mode: OTAA
+2021-11-03 10:16:45,057 - __init__ - 413 - DEBUG - Device EUI: 00 00 00 00 00 00 00 01
+2021-11-03 10:16:45,057 - __init__ - 416 - DEBUG - App EUI: 00 00 00 00 00 D5 B3 70
+2021-11-03 10:16:45,057 - __init__ - 419 - DEBUG - App Key: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-11-03 10:16:45,061 - join - 221 - DEBUG - Nonce = [158, 3]
+2021-11-03 10:16:45,061 - joined - 429 - DEBUG - Joined True
+2021-11-03 10:16:45,062 - join - 226 - INFO - Using cached details
+2021-11-03 10:16:45,062 - join - 227 - DEBUG - [38, 11, 123, 178]
+2021-11-03 10:16:48,114 - _choose_freq - 123 - INFO - Frequency = 868.5
+2021-11-03 10:16:48,117 - send_bytes - 276 - DEBUG - Frame count 3
+2021-11-03 10:16:48,120 - send_bytes - 279 - DEBUG - Packet = [64, 178, 123, 11, 38, 0, 3, 0, 1, 52, 254, 147, 125, 236, 44, 44, 143, 17, 149, 67, 56, 113, 6, 228, 32, 210, 54, 109, 109, 212, 176, 172, 175, 45, 254, 125, 232, 113, 211, 175, 12, 149, 156, 28, 250, 83, 185, 89, 230, 12, 101, 128, 19, 220]
+2021-11-03 10:16:48,122 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:16:48,123 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:16:48,230 - on_tx_done - 206 - DEBUG - TX Complete
+2021-11-03 10:16:49,238 - _choose_freq - 123 - INFO - Frequency = 867.5
+2021-11-03 10:16:49,245 - send_bytes - 276 - DEBUG - Frame count 4
+2021-11-03 10:16:49,248 - send_bytes - 279 - DEBUG - Packet = [64, 178, 123, 11, 38, 0, 4, 0, 1, 83, 40, 37, 228, 148, 55, 195, 45, 36, 237, 4, 194, 67, 224, 251, 229, 217, 34, 53, 2, 25, 197, 66, 193, 138, 187, 59, 18, 210, 104, 58, 167, 93, 223, 195, 182, 158, 105, 221, 56, 253, 119, 137, 104, 200]
+2021-11-03 10:16:49,249 - send_bytes - 284 - INFO - Succeeded on attempt 1/3
+2021-11-03 10:16:49,250 - save_fcount - 452 - DEBUG - Saving fcount
+2021-11-03 10:16:49,357 - on_tx_done - 206 - DEBUG - TX Complete

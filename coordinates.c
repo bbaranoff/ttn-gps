@@ -25,9 +25,9 @@ for(int i=0; i<1; i++) {
                 (gps_data.fix.mode == MODE_2D || gps_data.fix.mode == MODE_3D) &&
                 !isnan(gps_data.fix.latitude) && 
                 !isnan(gps_data.fix.longitude)) {
-                    printf("latitude: %f, longitude: %f\n", gps_data.fix.latitude, gps_data.fix.longitude);
+                    printf("%i,%i", gps_data.fix.latitude, gps_data.fix.longitude);
             } else {
-                printf("no GPS data available\n");
+                printf("no GPS data available");
             }
         }
 

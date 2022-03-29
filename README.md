@@ -1,13 +1,5 @@
 # Mise en place d'un traqueur GPS via LoRa(Wan)
-
-
-```plantuml
-GPS -[#red]> Raspberry : Coordonnées GPS
-Raspberry -[#black]> LoRa : Coordonnées GPS
-LoRa -[#green]> Routeur : Coordonnées GPS
-Routeur -[#blue]> TheThingsNetwork : Coordonnées GPS
-TheThingsNetwork -[#red]> Cayenne : Coordonnées GPS
-```
+![UML](uml.png)
 
 ## Installation du routeur sur Internet (via WiFi)
 

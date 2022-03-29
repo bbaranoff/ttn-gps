@@ -100,7 +100,6 @@ Ensuite on installe les paquets nécessaires :
 ```bash
 sudo apt install git device-tree-compiler git python3-crypto python3-nmea2 python3-rpi.gpio python3-serial python3-spidev python3-configobj gpsd libgps-dev gpsd-clients python3-pip
 pip3 install simplecayennelpp
-```
 git clone https://github.com/bbaranoff/libgps
 cd libgps
 make 

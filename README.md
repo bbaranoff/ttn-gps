@@ -106,8 +106,30 @@ sudo apt update && sudo apt upgrade
 Ensuite on installe les paquets nécessaires :
 
 ```bash
-sudo apt install git device-tree-compiler git python3-crypto python3-nmea2 python3-rpi.gpio python3-serial python3-spidev python3-configobj gpsd libgps-dev gpsd-clients libgps23 python3-pip
+sudo apt install git device-tree-compiler git python3-crypto python3-nmea2 python3-rpi.gpio python3-serial python3-spidev python3-configobj gpsd libgps-dev gpsd-clients python3-pip
 pip3 install simplecayennelpp
+```
+git clone https://github.com/bbaranoff/libgps
+cd libgps
+make 
+sudo make install
+sudo ldconfig
+nano /etc/default/gpsd
+```
+# Default settings for the gpsd init script and the hotplug wrapper.
+
+# Start the gpsd daemon automatically at boot time
+START_DAEMON="true"
+
+# Use USB hotplugging to add new USB devices automatically to the daemon
+USBAUTO="false"
+
+# Devices gpsd should collect to at boot time.
+# They need to be read/writeable, either by user gpsd or the group dialout.
+DEVICES="/dev/ttyAMA0"
+
+# Other options you want to pass to gpsd
+GPSD_OPTIONS="-n"
 ```
 
 Ensuite on rajoute au fichier /boot/config.txt les lignes suivantes :

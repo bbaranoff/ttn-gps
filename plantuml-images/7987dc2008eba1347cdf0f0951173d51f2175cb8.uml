@@ -1,0 +1,7 @@
+@startuml
+GPS -[#red]> Raspberry : Coordonnées GPS
+Raspberry -[#black]> LoRa : Coordonnées GPS
+LoRa -[#green]> Routeur : Coordonnées GPS
+Routeur -[#blue]> TheThingsNetwork : Coordonnées GPS
+TheThingsNetwork -[#red]> Cayenne : Coordonnées GPS
+@enduml
